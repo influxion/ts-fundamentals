@@ -1,0 +1,23 @@
+{
+  "name": "ts-fundamentals",
+  "version": "1.0.0",
+  "description": "Working with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/influxion/ts-fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/influxion/ts-fundamentals/issues"
+  },
+  "homepage": "https://github.com/influxion/ts-fundamentals#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
